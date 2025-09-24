@@ -21,7 +21,7 @@ The selected color is displayed as a HEX code and also previewed in a box.
 ---
 
 ## 📸 Screenshot
-![Color Picker Screenshot](src/screenshot.png)  
+![Color Picker Screenshot](screenshot.png)  
 
 
 
